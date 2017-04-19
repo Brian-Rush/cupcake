@@ -1,0 +1,31 @@
+.flashy {
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+  padding: 20px;
+}
+
+.flashy img {
+  max-width: 200px;
+  border: 2px solid black;
+}
+h1 {
+  margin-left: 40px;
+}
+h2 {
+
+}
+h3 {
+  text-align: center;
+}
+#best {
+  color: black;
+
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
